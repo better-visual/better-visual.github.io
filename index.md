@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Course Description
 nav_order: 1
 description: "Visual Design in Scholarly Communication: Figure, Tables, Visualizations, and Beyond"
 permalink: /
