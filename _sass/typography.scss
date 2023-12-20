@@ -4,7 +4,7 @@
 h1,
 .text-alpha {
   @include fs-8;
-
+  font-family: $secondary-font-family;
   font-weight: 300;
 }
 
@@ -12,11 +12,13 @@ h2,
 .text-beta,
 #toctitle {
   @include fs-6;
+  font-family: $secondary-font-family;
 }
 
 h3,
 .text-gamma {
   @include fs-5;
+  font-family: $secondary-font-family;
 }
 
 h4,
