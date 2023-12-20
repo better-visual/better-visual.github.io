@@ -16,8 +16,8 @@
 title: "IAP2024: Visual Design in Scholarly Communication"
 description: An IAP 2024 Class that helps you design better Figure, Tables, and Visualizations for your research
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-# repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://better-visual.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: better-visual/better-visual.github.io # for github-metadata
 
 permalink: pretty
 
