@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Description
+title: Overview
 nav_order: 1
 description: "Visual Design in Scholarly Communication: Figure, Tables, Visualizations, and Beyond"
 permalink: /
@@ -25,15 +25,19 @@ This subject aims to cover several key topics about visual designs in scholarly 
 1. basics and principles for visual design in scholarly communication 
 2. techniques for creating high-quality figures/tables/visualizations
 
-### Administrative details
+### Instructors
 
-This class is taught by [Shannon Shen](https://www.szj.io/) and [Lucas Torroba Hennigen](https://ltorroba.github.io/). We also feature a guest lecture by [Prof. Andrew Head](https://www.andrewhead.info/) from UPenn. Please reach out to us if you have any questions or need any special accommodations!
-You can do so by joining the class Slack by clicking [here](https://join.slack.com/t/better-visual/shared_invite/zt-2a2bjoizb-hiTF6jP6i0WqS69jqc~AJQ), or by [e-mailing us](mailto:zjshen@mit.edu,lucastor@mit.edu) directly.
+This class is taught by [Shannon Shen](https://www.szj.io/) and [Lucas Torroba Hennigen](https://ltorroba.github.io/). We also feature a guest lecture by [Prof. Andrew Head](https://www.andrewhead.info/) from UPenn.
 
-We will do our best to record all the lectures and put them up online shortly after the class, alongside slides and some notes.
+### Communication 
+
+Please join our class Slack by clicking [here](https://join.slack.com/t/better-visual/shared_invite/zt-2a2bjoizb-hiTF6jP6i0WqS69jqc~AJQ). And feel free to [e-mailing us](mailto:zjshen@mit.edu,lucastor@mit.edu) directly if you have any questions or need any special accommodations!
+
+### Zoom and Class Recordings
+All lectures will be recorded and shared online shortly after the class. alongside slides and lecture notes. We also offer a Zoom option for the class with [this Zoom link](https://mit.zoom.us/j/98891264144). 
 
 ### Schedule
-_The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**. All the sessions will be recorded and posted on the website. The schedule is subject to change. Please check back regularly for updates._
+The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**. The schedule is subject to change. Please check back regularly for updates.
 
 
 | <span class="text-grey-dk-000" style="display: inline-block; margin: 0 2px 4px 0;">Jan 9</span><br>**Fundamentals**     | <span class="label label-green" style="margin: 0 2px 4px 0;">Lecture</span> <br> This unit will cover fundamental topics in visual design. We will go through key visual abstractions like colors, shapes, arrangements described in the book Visualization analysis and design by Munzner. It will form a solid foundation to other topics in the class. |
