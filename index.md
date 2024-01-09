@@ -25,9 +25,12 @@ This subject aims to cover several key topics about visual designs in scholarly 
 1. basics and principles for visual design in scholarly communication 
 2. techniques for creating high-quality figures/tables/visualizations
 
-### Instructors
+### Administrative details
 
-This class is taught by [Shannon Shen](https://www.szj.io/) and [Lucas Torroba Hennigen](https://ltorroba.github.io/). We also feature a guest lecture by [Prof. Andrew Head](https://www.andrewhead.info/) from UPenn. 
+This class is taught by [Shannon Shen](https://www.szj.io/) and [Lucas Torroba Hennigen](https://ltorroba.github.io/). We also feature a guest lecture by [Prof. Andrew Head](https://www.andrewhead.info/) from UPenn. Please reach out to us if you have any questions or need any special accommodations!
+You can do so by joining the class Slack by clicking [here](https://join.slack.com/t/better-visual/shared_invite/zt-2a2bjoizb-hiTF6jP6i0WqS69jqc~AJQ), or by [e-mailing us](mailto:zjshen@mit.edu,lucastor@mit.edu) directly.
+
+We will do our best to record all the lectures and put them up online shortly after the class, alongside slides and some notes.
 
 ### Schedule
 _The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**. All the sessions will be recorded and posted on the website. The schedule is subject to change. Please check back regularly for updates._
@@ -42,3 +45,12 @@ _The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**
 
 <!-- IAP 2024, 1-2:30pm Tuesdays and Thursdays, room 26-204
 {: .text-grey-dark-300	 }  -->
+
+### Going further
+
+If you enjoy this sort of content, we think you'd also be interested in the [6/11.C35/85](https://vis-society.github.io/) course being taught this Spring. We also recommend the following books:
+
+1. **The Visual Display of Quantitive Information** by Edward Tufte
+2. **Visual Explanations** by Edward Tufte
+3. **Visualization Analysis and Design** by Tamara Munzner
+4. **Design Principles for Visual Communication** by Maneesh Agrawala et al.
