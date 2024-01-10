@@ -31,10 +31,10 @@ This class is taught by [Shannon Shen](https://www.szj.io/) and [Lucas Torroba H
 
 ### Communication 
 
-Please join our class Slack by clicking [here](https://join.slack.com/t/better-visual/shared_invite/zt-2a2bjoizb-hiTF6jP6i0WqS69jqc~AJQ). And feel free to [e-mailing us](mailto:zjshen@mit.edu,lucastor@mit.edu) directly if you have any questions or need any special accommodations!
+Please join our class Slack by clicking [here](https://join.slack.com/t/better-visual/shared_invite/zt-2a2bjoizb-hiTF6jP6i0WqS69jqc~AJQ). And feel free to [e-mail us](mailto:zjshen@mit.edu,lucastor@mit.edu) directly if you have any questions or need any special accommodations!
 
 ### Zoom and Class Recordings
-All lectures will be recorded and shared online shortly after the class. alongside slides and lecture notes. We also offer a Zoom option for the class with [this Zoom link](https://mit.zoom.us/j/98891264144). 
+All lectures will be recorded and shared online shortly after the class, alongside slides and lecture notes. We also offer a Zoom option for the class: please join via [this Zoom link](https://mit.zoom.us/j/98891264144). 
 
 ### Schedule
 The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**. The schedule is subject to change. Please check back regularly for updates.
