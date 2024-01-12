@@ -9,7 +9,7 @@ has_children: true
 
 <!-- | <span class="text-grey-dk-000" style="display: inline-block; margin: 0 2px 4px 0;">Lecture Recording</span><br>  | -->
 
-## Lec 1 Recording
+## Lecture Recording
 {: .my-6 }
 
 <iframe width="100%" height="400"
@@ -18,7 +18,7 @@ has_children: true
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe> 
 
-## Lec 1 Slides
+## Slides
 {: .my-6 }
 
 [Google Drive (410MB)](https://drive.google.com/file/d/1C7bIkCI9DSWXLFPE70KvfDO_xBKu6-jv/view?usp=sharing)
