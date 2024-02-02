@@ -35,8 +35,15 @@ The class will take place on Tuesdays and Thursdays from **1-2:30pm in 26-204**.
 
 All lectures will be recorded and shared online shortly after the class, alongside slides and lecture notes. We also offer a Zoom option for the class: please join via [this Zoom link](https://mit.zoom.us/j/98891264144).
 
-{: .warning }
-The time of lecture 5 and 6 has been updated, and we **won't** have the session on Jan 23. 
+{: .note-title }
+> End of Class Note
+>
+> Thank you very much for participating our class during IAP 2024! We hope the class might provide you with some inspirations and helpful techniques for presenting your research or work in the future. 
+> 
+> We are in the process of finalizing the lecture notes (with a lot of extra content), and please stay tuned. (PS: there won't be a video for the last class, but we will share the slides and notes.)
+> 
+> We would love to hear from your feedback for our class -- feel free to drop you thoughts or suggestions in our [feedback form](https://forms.gle/qwQwNULBDmnyVHwX6). Thank you! 
+
 
 | <span class="text-grey-dk-000" style="display: inline-block; margin: 0 2px 4px 0;">Jan 9</span><br>**Fundamentals** | <span class="label label-grey" style="margin: 0 2px 4px 0;">🎬&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=7SXmxuZ0gx4">Recording</a></span> <span class="label label-grey" style="margin: 0 2px 4px 0;">📑&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1C7bIkCI9DSWXLFPE70KvfDO_xBKu6-jv/view?usp=sharing">Slides</a></span> <br> This unit covers fundamental topics about designing visuals. We discuss why do we make visuals, what constitutes a good visual, and the process of making visuals. We study how to improve the design of visualization of the Anscombe's quartet, as well as inspect the design process of some figures in recent papers like [PaperMage](https://aclanthology.org/2023.emnlp-demo.45.pdf). |
 | <span class="text-grey-dk-000" style="display: inline-block; margin: 0 2px 4px 0;">Jan 11</span><br>**Figure** | <span class="label label-grey" style="margin: 0 2px 4px 0;">🎬&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=nae_0z_A0uc">Recording</a></span> <span class="label label-grey" style="margin: 0 2px 4px 0;">📑&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1ihv8oeI53aKLXGciDWOKeMEBfS43op6Z/view?usp=sharing">Slides</a></span> <br> The lecture focuses on specific techniques for creating figures. We attempted to draw analogies between figure making and coding – what is the “algorithm”, “programming language”, and “IDE/tooling” in the context of making figures? It is followed by a live demo of making three figures, showcasing concrete techniques for using Figma to make the visuals. | 

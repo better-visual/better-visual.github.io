@@ -185,8 +185,3 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-callouts:
-  warning:
-    title: Schedule update
-    color: red
